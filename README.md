@@ -9,4 +9,11 @@ Source code: https://github.com/PurdueCAM2Project/CAM2ImageDatabase
 The project aims to process incoming video streams from multiple IP cameras around the world, extract features from the frames, store the images as objects along with corresponding features, and make them ready for user query.
 
 ## Key Technology
+
 ### Database
+Vitess
+MinIO
+
+### Object Detection
+YOLOv3
+
