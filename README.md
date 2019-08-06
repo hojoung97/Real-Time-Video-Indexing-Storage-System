@@ -11,9 +11,9 @@ The project aims to process incoming video streams from multiple IP cameras arou
 ## Key Technology
 
 ### Database
-Vitess
-MinIO
+#### Vitess
+#### MinIO
 
 ### Object Detection
-YOLOv3
+#### YOLOv3
 
