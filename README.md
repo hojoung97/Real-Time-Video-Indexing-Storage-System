@@ -21,3 +21,4 @@ As an object store, MinIO can store unstructured data such as photos, videos, lo
 #### YOLOv3
 
 ## More to be updated...
+Our team is currently wrting a research paper, so more information is to be updated once our research paper is released. I really want to show more on here, but I am afraid to write information public just yet. Our research paper topic is on "Enabling Large-Scale and Real-Time Feature Indexing on Live Video Stream". I will try to update any good information whenever I can.
