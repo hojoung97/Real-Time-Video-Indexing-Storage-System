@@ -20,6 +20,7 @@ As an object store, MinIO can store unstructured data such as photos, videos, lo
 ### Object Detection
 * YOLOv3
 
+# Design
 ![System Design](/images/overall.png)
 
 ## More to be updated...
