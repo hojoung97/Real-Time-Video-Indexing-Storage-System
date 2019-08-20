@@ -12,9 +12,9 @@ The project aims to process incoming video streams from multiple IP cameras arou
 
 ### Database
 * [Vitess](https://github.com/vitessio)
-A database clustering system for horizontal scaling of MySQL
+** A database clustering system for horizontal scaling of MySQL
 * [MinIO](https://github.com/minio)
-MinIO is a cloud storage server released under Apache License v2, compatible with Amazon S3.
+** MinIO is a cloud storage server released under Apache License v2, compatible with Amazon S3.
 As an object store, MinIO can store unstructured data such as photos, videos, log files, backups and container / VM images. The maximum size of an object is 5TB.
 
 ### Object Detection
